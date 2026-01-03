@@ -1,0 +1,12 @@
+I am a Computer Science student with strong interest in software development.
+
+Skills:
+Python, Git, SQL
+
+Experience:
+Completed a Python-based project for resume screening.
+Worked on data analysis mini projects.
+Good communication and problem solving skills.
+
+Internship:
+Looking for an internship opportunity to grow as a developer.

@@ -1,0 +1,7 @@
+We are looking for a Python Developer Intern.
+
+Requirements:
+Strong knowledge of Python
+Basic understanding of data structures and algorithms
+Experience with Git
+Good communication skills
