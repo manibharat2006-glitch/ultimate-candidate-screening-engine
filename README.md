@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
+![Status](https://img.shields.io/badge/Status-Ready%20for%20Use-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Ultimate Candidate Screening Engine
 
 A **Python-based HR tool** for **automated candidate screening**.  
