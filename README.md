@@ -24,7 +24,13 @@ A **Python-based HR tool** for **automated candidate screening**.
 
 ## Screenshots
 
-![GUI Screenshot](screenshots/gui_example.png)
+
+**Interface of the Engine:**  
+![Interface](screenshots/interface.png)
+
+**Example of Screening Output:**  
+![Working](screenshots/working.png)
+
 
 ## How to Run
 
